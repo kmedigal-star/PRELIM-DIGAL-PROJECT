@@ -10,19 +10,19 @@ A collection of three activities completed during the Prelim period covering cor
 
 ### How I Created and Set Up the GitHub Repository
 
-<!-- Explain how you created the repo — naming it, setting it to public/private, initializing with a README, etc. -->
+I signed in to my GitHub account and clicked the **"New repository"** button from the dashboard. I named the repository clearly to reflect its purpose, set it to **Public** so anyone could access it, and initialized it with a **README.md** file directly on GitHub. This gave me an immediate starting point without needing any extra setup steps.
 
 ### How I Uploaded and Organized My Activities and Outputs
 
-<!-- Describe how you structured the files (activity .md files, images, folders), how you committed and pushed them, and how you kept things organized -->
+I used GitHub's **"Add file → Upload files"** feature to upload my activity outputs directly through the browser. I organized everything into clearly labeled Markdown files (`Activity1.md`, `Activity2.md`, `Activity3.md`) to keep each submission separate and easy to find. Each file contained the relevant write-ups and references to supporting images or outputs. After uploading, I wrote a short commit message describing what was added before confirming each commit to keep the history clean and traceable.
 
 ### Making the Portfolio Accessible and Presentable
 
-<!-- Explain how you formatted the README, used markdown, linked files, and ensured anyone visiting the repo could easily navigate it -->
+I formatted the `README.md` using **GitHub Markdown** — adding headings, bullet points, and hyperlinks to each activity file so visitors could navigate directly to any output. I included a brief description of each activity so the purpose was clear at a glance. A navigation bar at the top of the page links to all files, and since GitHub renders Markdown automatically, the README serves as a structured landing page that makes the entire portfolio easy to browse without needing to dig through files manually.
 
 ### Challenges Encountered and How I Addressed Them
 
-<!-- Share any difficulties (e.g., file uploads, Git errors, formatting issues) and how you resolved them -->
+One challenge was ensuring linked files and images displayed correctly in Markdown — broken paths were a common issue early on. I resolved this by double-checking relative paths and making sure file names had no spaces, using hyphens or underscores instead. Another difficulty was accidentally committing incomplete content; I addressed this by reviewing the file preview on GitHub before finalizing each commit. Keeping commit messages descriptive also helped me track changes and identify where things went wrong when corrections were needed.
 
 ---
 
